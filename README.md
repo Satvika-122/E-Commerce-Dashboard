@@ -1,1 +1,3 @@
 # E-Commerce-Dashboard
+
+The dashboard provides actionable insights for e-commerce businesses. It highlights total revenue ($8.89M) and quantity sold (5M), identifies top-selling items (e.g., "assorted colour bird ornament"), and reveals peak sales hours. Country-specific data shows high average revenue from Australia ($116.94) and low from Belgium ($20.28). The monthly revenue trend identifies seasonal fluctuations, aiding strategic planning. Comparing quantity with revenue helps evaluate product profitability. The dashboard facilitates inventory optimization, marketing personalization, and operational efficiency by making data-driven decisions seamless and accessible.
